@@ -43,3 +43,9 @@ footer{
   background-color:yellow;
   clear: both;
 }
+#good_picture{
+  width: 24px;
+  position: absolute;
+  left: 50px;
+  top: 50px;
+}
